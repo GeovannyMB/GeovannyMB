@@ -1,4 +1,4 @@
-### Opaa! Meu nome é Geovanny e atualmente trabalho como desenvolvedor Junior utilzando Java e Angular!
+### Opaa! Meu nome é Geovanny e atualmente trabalho como desenvolvedor Junior utilizando Java e Angular!
 <div align="center">
   <a href="https://github.com/GeovannyMB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannyMB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
